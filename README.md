@@ -1,2 +1,2 @@
-# -bench-press.botGo
+# bench-press.botGo
 # gymStruct
